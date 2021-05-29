@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+
+
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.container{
+  background-color: #045de9;
+  background-image: linear-gradient(315deg, #045de9 0%, #09c6f9 74%);
+}
+
+.notfi{
+  width: 25px;
+  height: 25px;
+}
+
+.section1{
+  width: 100%;
+  height: 85vh;
+}
+
+.section2{
+  height: 12em;
+}
